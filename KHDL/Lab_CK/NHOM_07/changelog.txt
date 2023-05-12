@@ -1,0 +1,22 @@
+----- Report PDF ---------
+- Cập nhật thông tin ở bảng phân công công việc.
+
+----- Slide report --------
+- Thay đổi nội dung slide 36.
+- Thêm slide báo cáo phần mô hình Hồi quy tuyến tính.
+- Thêm slide cho phần câu hỏi số 5.
+
+
+----- File Jupyter -------
+- Sửa lại một số nhận xét của các cell markdown. (có chỉnh chính tả)
+- Thay đổi nội dung cell vẽ Pie chart cho câu hỏi số 4.
+- Thêm nội dung và chỉnh sửa cho các cell thuộc câu hỏi 5.
+- Bổ sung phần mô hình Hồi quy tuyến tính.
+- Bổ sung phần mô hình phân cụm K-Means: 
+    + Vẽ thêm biểu đồ Silhouette score để chọn cụm. 
+    + Chỉnh lại số cụm đã phân.
+    + Sửa lại nhận xét, chỉnh chính tả.
+
+
+
+
